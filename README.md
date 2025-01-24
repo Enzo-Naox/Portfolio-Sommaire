@@ -15,7 +15,7 @@
 [Lien UI/UX](https://github.com/Enzo-Naox/UI-UX)
 
 # Minigolf - ***Unity***
-[Lien Minigolf](https://pages.github.com/)
+[Lien Minigolf](https://github.com/Enzo-Naox/Minigolf)
 
 # Blueprints - ***Unreal***
 [Lien Blueprints](https://pages.github.com/)
