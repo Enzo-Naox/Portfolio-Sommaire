@@ -11,7 +11,7 @@
 # Jeu d'échec
 [GitHub Pages](https://pages.github.com/).
 
-# UI/UX - **Unity** 
+# UI/UX - ***Unity***
 [GitHub Pages](https://pages.github.com/).
 
 # UI/UX
