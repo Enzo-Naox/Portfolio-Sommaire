@@ -16,10 +16,19 @@
 [Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
 
 # UI/UX - ***Unity***
+> [!NOTE]
+> - **Projet en solo**
+> - dqzdqdqud
 [Lien UI/UX](https://github.com/Enzo-Naox/UI-UX)
 
 # Minigolf - ***Unity***
+> [!NOTE]
+> - **Projet en solo**
+> - dqzdqdqud
 [Lien Minigolf](https://github.com/Enzo-Naox/Minigolf)
 
 # Blueprints - ***Unreal***
+> [!NOTE]
+> - **Projet en solo**
+> - dqzdqdqud
 [Lien Blueprints](https://github.com/Enzo-Naox/Blueprints)
