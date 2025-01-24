@@ -12,7 +12,7 @@
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
-> [!COLLABORATEURS]
+> [!TIP]
 > Helpful advice for doing things better or more easily.
 
 [Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
