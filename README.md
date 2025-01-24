@@ -10,7 +10,7 @@
 
 # Jeu d'échec - ***SFML, C++***
 > [!NOTE]
-> - **Projet en équipe** [@Horaclee](https://github.com/Horaclee)
+> - **Projet en équipe** - [@Horaclee](https://github.com/Horaclee)
 > - dqzdqdqud
 
 [Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
