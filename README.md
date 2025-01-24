@@ -10,9 +10,9 @@
 
 # Table of Contents
 :+1: - [Jeu d'échec - SFML, C++](#jeu-déchec---sfml-c)
-- [UI/UX - Unity](#uiux---unity)
-- [Minigolf](#minigolf---unity).
-- [Blueprints - Unreal](#blueprints---unreal)
+:+1: - [UI/UX - Unity](#uiux---unity)
+:+1: - [Minigolf](#minigolf---unity).
+:+1: - [Blueprints - Unreal](#blueprints---unreal)
 
 # Jeu d'échec - ***SFML, C++***
 > [!NOTE]
