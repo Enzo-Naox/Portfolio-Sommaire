@@ -12,10 +12,10 @@
 [Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
 
 # UI/UX - ***Unity***
-[GitHub Pages](https://pages.github.com/)
+[Lien UI/UX](https://github.com/Enzo-Naox/UI-UX)
 
 # Minigolf - ***Unity***
-[GitHub Pages](https://pages.github.com/)
+[Lien Minigolf](https://pages.github.com/)
 
 # Blueprints - ***Unreal***
-[GitHub Pages](https://pages.github.com/)
+[Lien Blueprints](https://pages.github.com/)
