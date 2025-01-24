@@ -1,8 +1,4 @@
 # Sommaire Portfolio
-[Jeu d'échec - SFML, C++](#jeu-déchec---sfml-c)
-[UI/UX - Unity](#uiux---unity)
-[Minigolf](#minigolf---unity).
-[Blueprints - Unreal](#blueprints---unreal)
 + Au cours de mes 3 années d'études j'ai pu réaliser en solo ou en équipe des petits projets.<br/>
 - Ce github me sert de sommaire à mon portfolio, vous trouverez ci-dessous les liens ainsi que les liées à mes différents projets.<br/>
 * Je tiens à signaler que je n'ai pas mis à disposition tous mes projets, notamment ceux concernant le web (fait principalement en 1ère année), mais également les projets que je considère raté ou ceux qui à mon avis ne me permettent pas de valoriser mes compétences.
@@ -11,6 +7,12 @@
 
 > [!IMPORTANT]
 > Les projets sont assez cours, ils durent globalement en 1 et 3 semaines, à la fin de ses du temps accordé nous présentons sous forme de soutenance notre projet. C'est pourquoi nous devons nous concentrer sur l'essentiel, ce qui engendre un manque de transparence du jeu, je conseil donc de lire la petite explication qui permettra de comprendrer rapidement le jeu !
+
+# Table of Contents
+[Jeu d'échec - SFML, C++](#jeu-déchec---sfml-c)
+[UI/UX - Unity](#uiux---unity)
+[Minigolf](#minigolf---unity).
+[Blueprints - Unreal](#blueprints---unreal)
 
 # Jeu d'échec - ***SFML, C++***
 > [!NOTE]
