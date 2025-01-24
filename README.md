@@ -11,7 +11,7 @@
 # Table of Contents
 - :+1:[Jeu d'échec - SFML, C++](#jeu-déchec---sfml-c)
 - :+1:[UI/UX - Unity](#uiux---unity)
-- :	VIDEO GAME:[Minigolf](#minigolf---unity).
+- :VIDEO GAME:[Minigolf](#minigolf---unity).
 - :+1:[Blueprints - Unreal](#blueprints---unreal)
 
 # Jeu d'échec - ***SFML, C++***
