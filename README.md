@@ -10,11 +10,8 @@
 
 # Jeu d'échec - ***SFML, C++***
 > [!NOTE]
-> * Useful information that users should know, even when skimming content.
-> * Useful information that users should know, even when skimming content.
-
-> [!NOTE]
-> Helpful advice for doing things better or more easily.
+> -heujdfuj
+> -dqzdqdqud
 
 [Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
 
