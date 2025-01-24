@@ -12,23 +12,22 @@
 > [!NOTE]
 > - **Projet en équipe** - [@Horaclee](https://github.com/Horaclee)
 > - dqzdqdqud
-
-[Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
+> - [Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
 
 # UI/UX - ***Unity***
 > [!NOTE]
 > - **Projet en solo**
 > - dqzdqdqud
-[Lien UI/UX](https://github.com/Enzo-Naox/UI-UX)
+> - [Lien UI/UX](https://github.com/Enzo-Naox/UI-UX)
 
 # Minigolf - ***Unity***
 > [!NOTE]
 > - **Projet en solo**
 > - dqzdqdqud
-[Lien Minigolf](https://github.com/Enzo-Naox/Minigolf)
+> - [Lien Minigolf](https://github.com/Enzo-Naox/Minigolf)
 
 # Blueprints - ***Unreal***
 > [!NOTE]
 > - **Projet en solo**
 > - dqzdqdqud
-[Lien Blueprints](https://github.com/Enzo-Naox/Blueprints)
+> - [Lien Blueprints](https://github.com/Enzo-Naox/Blueprints)
