@@ -8,7 +8,7 @@
 > [!IMPORTANT]
 > Les projets sont assez cours, ils durent globalement en 1 et 3 semaines, à la fin de ses du temps accordé nous présentons sous forme de soutenance notre projet. C'est pourquoi nous devons nous concentrer sur l'essentiel, ce qui engendre un manque de transparence du jeu, je conseil donc de lire la petite explication qui permettra de comprendrer rapidement le jeu !
 
-# Jeu d'échec
+# Jeu d'échec - ***SFML, C++***
 [GitHub Pages](https://pages.github.com/).
 
 # UI/UX - ***Unity***
