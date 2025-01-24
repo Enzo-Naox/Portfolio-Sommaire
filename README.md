@@ -1,5 +1,5 @@
 # Sommaire Portfolio
-Link to the sample section: [Link Text](#jeu-déchec---sfml-c++).
+Link to the sample section: [Link Text](#jeu-dechec---sfml-c++).
 Link to the sample section: [Link Text](#minigolf---unity).
 Link to the sample section: [Link Text](#minigolf---unity).
 Link to the sample section: [Link Text](#minigolf---unity).
