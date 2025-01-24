@@ -9,6 +9,12 @@
 > Les projets sont assez cours, ils durent globalement en 1 et 3 semaines, à la fin de ses du temps accordé nous présentons sous forme de soutenance notre projet. C'est pourquoi nous devons nous concentrer sur l'essentiel, ce qui engendre un manque de transparence du jeu, je conseil donc de lire la petite explication qui permettra de comprendrer rapidement le jeu !
 
 # Jeu d'échec - ***SFML, C++***
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
 [Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
 
 # UI/UX - ***Unity***
