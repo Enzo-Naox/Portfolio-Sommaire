@@ -18,4 +18,4 @@
 [Lien Minigolf](https://github.com/Enzo-Naox/Minigolf)
 
 # Blueprints - ***Unreal***
-[Lien Blueprints](https://pages.github.com/)
+[Lien Blueprints](https://github.com/Enzo-Naox/Blueprints)
