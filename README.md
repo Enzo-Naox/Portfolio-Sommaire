@@ -6,7 +6,7 @@
 > Tous mes projets ajoutés ci-dessous contiendront: le projet en lui-meme, une build pour afin de pouvoir tester, ainsi que le cahier des charges contenant les consignes du projet et pour finir une petite explication rapide.
 
 > [!IMPORTANT]
-> Les projets sont assez cours, ils durent globalement en 1 et 3 semaines, à la fin de ses du temps accordé nous présentons sous forme de soutenance notre projet. C'est pourquoi nous devons nous concentrer sur l'essentiel, ce qui engendre un manque de transparence du jeu, je conseil donc de lire la petite explication qui permettra de comprendrer rapidement le jeu !
+> Les projets sont assez cours, ils durent globalement en 1 et 3 semaines, à la fin de ses du temps accordé nous présentons sous forme de soutenance notre projet. C'est pourquoi nous devons nous concentrer sur l'essentiel, ce qui engendre un manque de transparence du jeu, je conseil donc de lire la petite explication qui permettra de comprendre rapidement le jeu !
 
 # Table of Contents
 - :brain: [Jeu d'échec - SFML, C++](#jeu-déchec---sfml-c)
