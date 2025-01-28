@@ -17,7 +17,7 @@
 # Jeu d'échec - ***SFML, C++***
 > [!NOTE]
 > - **Projet en équipe** - [@Horaclee](https://github.com/Horaclee)
-> - Pour ce projet, mon partenaire et moi deviont choisir entre différent types d'IA. Nous avons choisi l'IA de planification. Nous avons donc réalisé en 2 semaines un jeu d'échec fonctionnel. Concernant le jeu, les sprites des pions ont été récupéré sur internet, les backgrounds eux ont été généré avec ChatGPT, 2 modes sont disponibles jouer contre joueur et joueur contre IA. Le jeu n'a pas de reste n'y de fin nous affichons juste le gagnant en console. Nous avons eux des difficultés pour créer l'IA, nous avons essayer de faire notre maximun, notre IA cherche donc à capturer notre Roi mais ne défend pas tellement le sien. 
+> - Pour ce projet, mon partenaire et moi deviont choisir entre différent types d'IA. Nous avons choisi l'IA de planification. Nous avons donc réalisé en 2 semaines un jeu d'échec fonctionnel. Concernant le jeu, les sprites des pions ont été récupéré sur internet, les backgrounds eux ont été généré avec ChatGPT, 2 modes sont disponibles joueur contre joueur et joueur contre IA. Le jeu n'a pas de reset n'y de fin nous affichons juste le gagnant en console. Nous avons eux des difficultés pour créer l'IA, nous avons essayer de faire notre maximun, notre IA cherche donc à capturer notre Roi mais ne défend pas tellement le sien. Ce qui en fait son point faible et la rend imparfaite. Nous n'avons pas encore eux la notes je ne peux donc pas la communiquer.
 > - [Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
 
 # UI/UX - ***Unity***
