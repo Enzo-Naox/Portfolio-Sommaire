@@ -17,7 +17,7 @@
 # Jeu d'échec - ***SFML, C++***
 > [!NOTE]
 > - **Projet en équipe** - [@Horaclee](https://github.com/Horaclee)
-> - dqzdqdqud
+> - Pour ce projet, mon partenaire et moi deviont choisir entre différent type d'IA pour ensuite créer 
 > - [Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
 
 # UI/UX - ***Unity***
