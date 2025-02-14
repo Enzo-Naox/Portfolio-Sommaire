@@ -13,7 +13,7 @@
 - :computer_mouse: [Minigolf](#minigolf---unity).
 - :cookie: [UI/UX - Unity](#uiux---unity)
 - :joystick: [Blueprints - Unreal](#jeu-en-blueprints---unreal)
-- :joystick: [Blueprints - Unreal](#jeu-en-c++-blueprints---unreal)
+- :joystick: [Blueprints - Unreal](#jeu-en-c-blueprints---unreal)
 
 # Jeu d'échec - ***SFML, C++***
 > [!NOTE]
