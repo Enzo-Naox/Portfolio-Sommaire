@@ -32,14 +32,14 @@
 > - dqzdqdqud
 > - [Lien Minigolf](https://github.com/Enzo-Naox/Minigolf)
 
-# Blueprints - ***Unreal***
+# Jeu en Blueprints - ***Unreal***
 > [!NOTE]
 > - **Projet en solo**
 > - dqzdqdqud
 > - [Lien Blueprints](https://github.com/Enzo-Naox/Blueprints)
 
-# C++ - ***Unreal***
+# Jeu en C++ - ***Unreal***
 > [!NOTE]
 > - **Projet en équipe** [@PoloBongo](https://github.com/PoloBongo) & [@Horaclee](https://github.com/Horaclee)
 > - dqzdqdqud
-> - [Lien Blueprints](https://github.com/Enzo-Naox/Blueprints)
+> - [Lien C++](https://github.com/PoloBongo/Reap-the-Undead)
