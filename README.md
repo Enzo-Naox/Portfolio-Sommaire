@@ -10,8 +10,9 @@
 
 # Table of Contents
 - :brain: [Jeu d'échec - SFML, C++](#jeu-déchec---sfml-c)
-- :cookie: [UI/UX - Unity](#uiux---unity)
 - :computer_mouse: [Minigolf](#minigolf---unity).
+- :cookie: [UI/UX - Unity](#uiux---unity)
+- :joystick: [Blueprints - Unreal](#jeu-en-blueprints---unreal)
 - :joystick: [Blueprints - Unreal](#blueprints---unreal)
 
 # Jeu d'échec - ***SFML, C++***
