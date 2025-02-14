@@ -20,22 +20,22 @@
 > - Pour ce projet, mon partenaire et moi devions choisir entre différents types d'IA. Nous avons choisi l'IA de planification. Nous avons donc réalisé en 2 semaines un jeu d'échecs fonctionnel. Concernant le jeu, les sprites des pions ont été récupérés sur Internet, les backgrounds, eux, ont été générés avec ChatGPT. Deux modes sont disponibles : joueur contre joueur et joueur contre IA. Le jeu n'a pas de reset ni de fin ; nous affichons juste le gagnant en console. Nous avons eu des difficultés pour créer l'IA, nous avons essayé de faire notre maximum. Notre IA cherche donc à capturer notre roi, mais ne défend pas tellement le sien, ce qui en fait son point faible et la rend imparfaite. Nous n'avons pas encore eu la note, je ne peux donc pas la communiquer.
 > - [Lien jeu d'échec](https://github.com/Enzo-Naox/Jeu-echec)
 
-# UI/UX - ***Unity***
-> [!NOTE]
-> - **Projet en solo**
-> - dqzdqdqud
-> - [Lien UI/UX](https://github.com/Enzo-Naox/UI-UX)
-
 # Minigolf - ***Unity***
 > [!NOTE]
 > - **Projet en solo**
-> - dqzdqdqud
+> - Pour ce projet, nous étions libres aucun thème imposé, la seul règle était un jeu fonctionnel et agréable en 2 semaines. J'ai donc choisi de faire un jeu de minigolf.
 > - [Lien Minigolf](https://github.com/Enzo-Naox/Minigolf)
+
+# UI/UX - ***Unity***
+> [!NOTE]
+> - **Projet en solo**
+> - Pour ce projet, il fallait faire un jeu de cuisine avec un max d'UI. Il fallait une gestion de main, un livre de recette et également un système de craft.
+> - [Lien UI/UX](https://github.com/Enzo-Naox/UI-UX)
 
 # Jeu en Blueprints - ***Unreal***
 > [!NOTE]
 > - **Projet en solo**
-> - dqzdqdqud
+> - Pour ce projet, nous devions créer des attractions de fetes foraines (chamboule-tout et AutoTamponeuse). Il s'agit de mon tout premier projet sur Unreal Engine.
 > - [Lien Blueprints](https://github.com/Enzo-Naox/Blueprints)
 
 # Jeu en C++ - ***Unreal***
