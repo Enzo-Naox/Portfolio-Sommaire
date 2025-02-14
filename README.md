@@ -40,6 +40,6 @@
 
 > - # C++ - ***Unreal***
 > [!NOTE]
-> - **Projet en équipe @PoloBongo**
+> - **Projet en équipe** [@PoloBongo](https://github.com/PoloBongo)
 > - dqzdqdqud
 > - [Lien Blueprints](https://github.com/Enzo-Naox/Blueprints)
