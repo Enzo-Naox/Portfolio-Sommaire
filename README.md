@@ -9,12 +9,11 @@
 > Les projets sont assez cours, ils durent globalement en 1 et 3 semaines, à la fin de ses du temps accordé nous présentons sous forme de soutenance notre projet. C'est pourquoi nous devons nous concentrer sur l'essentiel, ce qui engendre un manque de transparence du jeu, je conseil donc de lire la petite explication qui permettra de comprendre rapidement le jeu !
 
 # Table of Contents
-# Table of Contents
-- :brain: [Jeu d'échec - SFML, C++](#jeu-déchec---sfml-c)
-- :computer_mouse: [Minigolf - Unity](#minigolf---unity)
-- :cookie: [UI/UX - Unity](#uiux---unity)
-- :joystick: [Unreal - C++](#jeu-en-c---unreal)
-- :telephone: [Grand Projet - Unity](#grand-projet---unity)
+- 🧠 [Jeu d'échec - SFML, C++](#jeu-déchec---sfml-c)
+- 🖱️ [Minigolf - Unity](#minigolf---unity)
+- 🍪 [UI/UX - Unity](#uiux---unity)
+- 🎮 [Unreal - C++](#jeu-en-c---unreal)
+- 📱 [Grand Projet - Unity](#grand-projet---unity)
 
 # Jeu d'échec - ***SFML, C++***
 > [!NOTE]
