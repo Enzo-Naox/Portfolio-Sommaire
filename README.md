@@ -39,7 +39,7 @@
 > - Pour ce projet, nous étions libres de choisir le thème de notre jeu. On a choisi, un jeu ou l'on doit récolter des ressources pour ensuite crafter des attaques puis aller se battre contre des vagues d'ennemies. Nous avions une consignes rendre le jeu juiciness, en ajoutant plein de feedback, animations, niagaras. Toutes dans le jeu a été créer par nous memes sauf l'animation du player de base.
 > - [Lien C++](https://github.com/PoloBongo/Reap-the-Undead)
 
-# Grand Projet - ***Unity***
+# 📱 Grand Projet - ***Unity***
 > [!NOTE]
 > - **Projet en équipe**
 > - Pour ce projet, nous étions libres de choisir le thème de notre jeu. On a choisi, un jeu ou l'on doit récolter des ressources pour ensuite crafter des attaques puis aller se battre contre des vagues d'ennemies. Nous avions une consignes rendre le jeu juiciness, en ajoutant plein de feedback, animations, niagaras. Toutes dans le jeu a été créer par nous memes sauf l'animation du player de base.
