@@ -41,6 +41,6 @@
 
 # Grand Projet - ***Unity***
 > [!NOTE]
-> - **Projet en équipe**
-> - Pour ce projet, nous étions libres de choisir le thème de notre jeu. On a choisi, un jeu ou l'on doit récolter des ressources pour ensuite crafter des attaques puis aller se battre contre des vagues d'ennemies. Nous avions une consignes rendre le jeu juiciness, en ajoutant plein de feedback, animations, niagaras. Toutes dans le jeu a été créer par nous memes sauf l'animation du player de base.
+> - **Projet en équipe** Nous étions 6 étudiants développeurs, 6 étudiant business et 2 étudiants artistes
+> - Il s'agit là du projet de fin d'année de mon école. C'est un très gros projet qui dure 2 mois, pour commencer; l'équipe beaucoup plus grande qu'habituellement. De plus il s'agit d'un projet rassemblant plusieurs filiaires de l'école. Une fois l'équipe creer, il fallait trouver l'idée du jeu. La seule condition posé par notre école est "jeu mobile". Nous avions commencé par une longue période de reflexion, répartition des taches etc. Ensuite la période de développement. Nous avions du coup 1 mois pour développer un jeu mobile totalement jouable et fonctionnel. Mon équipe et moi à l'issue de la présentation devant tout les autres groupes et un jury composé de 9 personnes(3.De l'Administration, 1.Streameur, 1.SoundDesigner, 2.Developpeur et 2.Marketeur) nous avons remporté le trophé du meilleur gameplay !
 > - [Grand Projet](https://github.com/GamingCampus-MillieBourgois-24-25/grand-projet-commun-unnamed-minigames-game)
