@@ -26,6 +26,12 @@
 > - Pour ce projet, nous étions libres aucun thème imposé, la seul règle était un jeu fonctionnel et agréable en 2 semaines. J'ai donc choisi de faire un jeu de minigolf.
 > - [Lien Minigolf](https://github.com/Enzo-Naox/Minigolf)
 
+# UI/UX - ***Unity***
+> [!NOTE]
+> - **Projet en solo**
+> - Pour ce projet, il fallait faire un jeu de cuisine avec un max d'UI. Il fallait une gestion de main, un livre de recette et également un système de craft.
+> - [Lien UI/UX](https://github.com/Enzo-Naox/UI-UX)
+
 # Jeu en C++ - ***Unreal***
 > [!NOTE]
 > - **Projet en équipe** [@PoloBongo](https://github.com/PoloBongo) & [@Horaclee](https://github.com/Horaclee)
