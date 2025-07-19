@@ -11,7 +11,6 @@
 # Table of Contents
 - 🧠 [Jeu d'échec - SFML, C++](#jeu-déchec---sfml-c)
 - 🖱️ [Minigolf - Unity](#minigolf---unity)
-- 🍪 [UI/UX - Unity](#uiux---unity)
 - 🎮 [Unreal - C++](#jeu-en-c---unreal)
 - 📱 [Grand Projet - Unity](#grand-projet---unity)
 
@@ -26,12 +25,6 @@
 > - **Projet en solo**
 > - Pour ce projet, nous étions libres aucun thème imposé, la seul règle était un jeu fonctionnel et agréable en 2 semaines. J'ai donc choisi de faire un jeu de minigolf.
 > - [Lien Minigolf](https://github.com/Enzo-Naox/Minigolf)
-
-# UI/UX - ***Unity***
-> [!NOTE]
-> - **Projet en solo**
-> - Pour ce projet, il fallait faire un jeu de cuisine avec un max d'UI. Il fallait une gestion de main, un livre de recette et également un système de craft.
-> - [Lien UI/UX](https://github.com/Enzo-Naox/UI-UX)
 
 # Jeu en C++ - ***Unreal***
 > [!NOTE]
