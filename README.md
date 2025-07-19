@@ -12,8 +12,8 @@
 - :brain: [Jeu d'échec - SFML, C++](#jeu-déchec---sfml-c)
 - :computer_mouse: [Minigolf](#minigolf---unity).
 - :cookie: [UI/UX - Unity](#uiux---unity)
-- :joystick: [Blueprints - Unreal](#jeu-en-blueprints---unreal)
 - :joystick: [Unreal - C++](#jeu-en-c---unreal)
+- :joystick: [Unreal - C++](#grand-projet---unreal)
 
 # Jeu d'échec - ***SFML, C++***
 > [!NOTE]
@@ -32,12 +32,6 @@
 > - **Projet en solo**
 > - Pour ce projet, il fallait faire un jeu de cuisine avec un max d'UI. Il fallait une gestion de main, un livre de recette et également un système de craft.
 > - [Lien UI/UX](https://github.com/Enzo-Naox/UI-UX)
-
-# Jeu en Blueprints - ***Unreal***
-> [!NOTE]
-> - **Projet en solo**
-> - Pour ce projet, nous devions créer des attractions de fetes foraines (chamboule-tout et AutoTamponeuse). Il s'agit de mon tout premier projet sur Unreal Engine.
-> - [Lien Blueprints](https://github.com/Enzo-Naox/Blueprints)
 
 # Jeu en C++ - ***Unreal***
 > [!NOTE]
